@@ -1,0 +1,18 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "my first webpack app",
+  "main": "index.js",
+  "scripts": {
+    "test": "first command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pong"
+  },
+  "keywords": [
+    "huthman"
+  ],
+  "author": "huthman \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[H\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C Wale-Salami",
+  "license": "ISC"
+}
